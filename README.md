@@ -22,6 +22,10 @@ Le but de ce projet était donc de développer deux jeux au choix sous trois lib
 
 ## Utilisation
 
+### Pré-requis
+
+!!! Pour pouvoir lancer le programme il est nécessaire d'avoir installer les différentes librairies graphiques mentionnées ci-dessus.
+
 ### Lancement des différents jeux
 
 Après avoir cloné le projet, exécutez la commande ```make``` pour installer le programme.
