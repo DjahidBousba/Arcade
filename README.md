@@ -44,7 +44,7 @@ Vous pouvez trouver les différentes documentation expliquant le fonctionnement 
 
 [![Arcade](https://www.djahid-bousba.com/static/media/arcade.2ff88188.png)](https://www.youtube.com/watch?v=dKhdQsjAPgw)
 
-## Auteur 
+## Auteurs
 
   * **Djahid Bousba** - [Djahid.Bousba](https://www.djahid-bousba.com/)
   * **Laurent Sferlazza**
